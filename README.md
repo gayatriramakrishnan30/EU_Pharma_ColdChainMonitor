@@ -40,7 +40,6 @@ Created entirely in Excel using:
 - **Route Risk Heatmap** (Avg Max Temp by Route)
 - **Product Compliance Bar Chart** (CRITICAL vs OK)
 - **Monthly Violation Trend Line Chart**
-- GDP Reference Table for Annexes 9, 13, 15
 
 ---
 
